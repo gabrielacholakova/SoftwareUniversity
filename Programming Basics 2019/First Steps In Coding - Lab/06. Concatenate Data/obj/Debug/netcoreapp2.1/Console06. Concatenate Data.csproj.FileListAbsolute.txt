@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\Console06. Concatenate Data\bin\Debug\netcoreapp2.1\Console06. Concatenate Data.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\Console06. Concatenate Data\bin\Debug\netcoreapp2.1\Console06. Concatenate Data.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\Console06. Concatenate Data\bin\Debug\netcoreapp2.1\Console06. Concatenate Data.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\Console06. Concatenate Data\bin\Debug\netcoreapp2.1\Console06. Concatenate Data.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\Console06. Concatenate Data\bin\Debug\netcoreapp2.1\Console06. Concatenate Data.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\Console06. Concatenate Data\obj\Debug\netcoreapp2.1\Console06. Concatenate Data.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\Console06. Concatenate Data\obj\Debug\netcoreapp2.1\Console06. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\Console06. Concatenate Data\obj\Debug\netcoreapp2.1\Console06. Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\Console06. Concatenate Data\obj\Debug\netcoreapp2.1\Console06. Concatenate Data.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\Console06. Concatenate Data\obj\Debug\netcoreapp2.1\Console06. Concatenate Data.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\Console06. Concatenate Data\obj\Debug\netcoreapp2.1\Console06. Concatenate Data.pdb

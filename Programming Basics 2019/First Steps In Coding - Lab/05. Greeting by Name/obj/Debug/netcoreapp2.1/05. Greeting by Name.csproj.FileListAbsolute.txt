@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp2.1\05. Greeting by Name.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp2.1\05. Greeting by Name.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp2.1\05. Greeting by Name.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp2.1\05. Greeting by Name.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp2.1\05. Greeting by Name.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp2.1\05. Greeting by Name.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp2.1\05. Greeting by Name.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp2.1\05. Greeting by Name.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp2.1\05. Greeting by Name.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp2.1\05. Greeting by Name.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp2.1\05. Greeting by Name.pdb

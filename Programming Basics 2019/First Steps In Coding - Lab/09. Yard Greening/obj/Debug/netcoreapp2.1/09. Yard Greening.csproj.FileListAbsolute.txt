@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp2.1\09. Yard Greening.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp2.1\09. Yard Greening.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp2.1\09. Yard Greening.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp2.1\09. Yard Greening.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\netcoreapp2.1\09. Yard Greening.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp2.1\09. Yard Greening.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp2.1\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp2.1\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp2.1\09. Yard Greening.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp2.1\09. Yard Greening.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\netcoreapp2.1\09. Yard Greening.pdb
