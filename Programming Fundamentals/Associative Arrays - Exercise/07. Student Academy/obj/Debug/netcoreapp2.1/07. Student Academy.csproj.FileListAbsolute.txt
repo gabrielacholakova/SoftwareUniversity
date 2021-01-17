@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.deps.json
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.runtimeconfig.json
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.dll
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.pdb
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.dll
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.pdb

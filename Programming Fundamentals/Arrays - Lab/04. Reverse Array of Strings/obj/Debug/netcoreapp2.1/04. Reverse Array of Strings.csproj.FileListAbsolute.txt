@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp2.1\07. Equal Arrays.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp2.1\07. Equal Arrays.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp2.1\07. Equal Arrays.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp2.1\07. Equal Arrays.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\netcoreapp2.1\07. Equal Arrays.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\netcoreapp2.1\07. Equal Arrays.pdb

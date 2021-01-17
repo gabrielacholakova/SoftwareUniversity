@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\netcoreapp2.1\02. Common Elements.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\netcoreapp2.1\02. Common Elements.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\Associative Arrays - Exercise\bin\Debug\netcoreapp2.1\01. Count Chars in a String.deps.json
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\Associative Arrays - Exercise\bin\Debug\netcoreapp2.1\01. Count Chars in a String.runtimeconfig.json
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\Associative Arrays - Exercise\bin\Debug\netcoreapp2.1\01. Count Chars in a String.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\Associative Arrays - Exercise\bin\Debug\netcoreapp2.1\01. Count Chars in a String.dll
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\Associative Arrays - Exercise\bin\Debug\netcoreapp2.1\01. Count Chars in a String.pdb
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\netcoreapp2.1\01. Count Chars in a String.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\netcoreapp2.1\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\netcoreapp2.1\01. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\netcoreapp2.1\01. Count Chars in a String.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\netcoreapp2.1\01. Count Chars in a String.dll
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\netcoreapp2.1\01. Count Chars in a String.pdb

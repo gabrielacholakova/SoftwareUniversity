@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.deps.json
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.runtimeconfig.json
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.dll
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.pdb
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.dll
+C:\Users\Gabby\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.pdb

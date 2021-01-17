@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.pdb

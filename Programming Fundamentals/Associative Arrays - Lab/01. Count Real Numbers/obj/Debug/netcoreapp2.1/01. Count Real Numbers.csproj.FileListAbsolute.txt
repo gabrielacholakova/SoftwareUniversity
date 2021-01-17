@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Associative Arrays - Lab\Associative Arrays - Lab\bin\Debug\netcoreapp2.1\01. Count Real Numbers.deps.json
+C:\Users\Gabby\source\repos\Associative Arrays - Lab\Associative Arrays - Lab\bin\Debug\netcoreapp2.1\01. Count Real Numbers.runtimeconfig.json
+C:\Users\Gabby\source\repos\Associative Arrays - Lab\Associative Arrays - Lab\bin\Debug\netcoreapp2.1\01. Count Real Numbers.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Associative Arrays - Lab\Associative Arrays - Lab\bin\Debug\netcoreapp2.1\01. Count Real Numbers.dll
+C:\Users\Gabby\source\repos\Associative Arrays - Lab\Associative Arrays - Lab\bin\Debug\netcoreapp2.1\01. Count Real Numbers.pdb
+C:\Users\Gabby\source\repos\Associative Arrays - Lab\Associative Arrays - Lab\obj\Debug\netcoreapp2.1\01. Count Real Numbers.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Lab\Associative Arrays - Lab\obj\Debug\netcoreapp2.1\01. Count Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Lab\Associative Arrays - Lab\obj\Debug\netcoreapp2.1\01. Count Real Numbers.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Associative Arrays - Lab\Associative Arrays - Lab\obj\Debug\netcoreapp2.1\01. Count Real Numbers.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Associative Arrays - Lab\Associative Arrays - Lab\obj\Debug\netcoreapp2.1\01. Count Real Numbers.dll
+C:\Users\Gabby\source\repos\Associative Arrays - Lab\Associative Arrays - Lab\obj\Debug\netcoreapp2.1\01. Count Real Numbers.pdb
