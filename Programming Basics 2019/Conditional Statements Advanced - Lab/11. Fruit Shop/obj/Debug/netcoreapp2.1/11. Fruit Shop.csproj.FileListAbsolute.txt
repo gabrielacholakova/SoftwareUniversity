@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp2.1\11. Fruit Shop.deps.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp2.1\11. Fruit Shop.runtimeconfig.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp2.1\11. Fruit Shop.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp2.1\11. Fruit Shop.dll
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\bin\Debug\netcoreapp2.1\11. Fruit Shop.pdb
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp2.1\11. Fruit Shop.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp2.1\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp2.1\11. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp2.1\11. Fruit Shop.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp2.1\11. Fruit Shop.dll
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\11. Fruit Shop\obj\Debug\netcoreapp2.1\11. Fruit Shop.pdb

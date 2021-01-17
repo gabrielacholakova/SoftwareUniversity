@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\13. Ski Trip\bin\Debug\netcoreapp2.1\13. Ski Trip.deps.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\13. Ski Trip\bin\Debug\netcoreapp2.1\13. Ski Trip.runtimeconfig.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\13. Ski Trip\bin\Debug\netcoreapp2.1\13. Ski Trip.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\13. Ski Trip\bin\Debug\netcoreapp2.1\13. Ski Trip.dll
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\13. Ski Trip\bin\Debug\netcoreapp2.1\13. Ski Trip.pdb
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\13. Ski Trip\obj\Debug\netcoreapp2.1\13. Ski Trip.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\13. Ski Trip\obj\Debug\netcoreapp2.1\13. Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\13. Ski Trip\obj\Debug\netcoreapp2.1\13. Ski Trip.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\13. Ski Trip\obj\Debug\netcoreapp2.1\13. Ski Trip.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\13. Ski Trip\obj\Debug\netcoreapp2.1\13. Ski Trip.dll
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Lab\13. Ski Trip\obj\Debug\netcoreapp2.1\13. Ski Trip.pdb
