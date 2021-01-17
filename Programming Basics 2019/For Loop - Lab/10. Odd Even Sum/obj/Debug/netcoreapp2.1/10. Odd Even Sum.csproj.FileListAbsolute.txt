@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp2.1\10. Odd Even Sum.deps.json
+C:\Users\Gabby\source\repos\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp2.1\10. Odd Even Sum.runtimeconfig.json
+C:\Users\Gabby\source\repos\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp2.1\10. Odd Even Sum.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp2.1\10. Odd Even Sum.dll
+C:\Users\Gabby\source\repos\For Loop - Lab\10. Odd Even Sum\bin\Debug\netcoreapp2.1\10. Odd Even Sum.pdb
+C:\Users\Gabby\source\repos\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp2.1\10. Odd Even Sum.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp2.1\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp2.1\10. Odd Even Sum.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp2.1\10. Odd Even Sum.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp2.1\10. Odd Even Sum.dll
+C:\Users\Gabby\source\repos\For Loop - Lab\10. Odd Even Sum\obj\Debug\netcoreapp2.1\10. Odd Even Sum.pdb

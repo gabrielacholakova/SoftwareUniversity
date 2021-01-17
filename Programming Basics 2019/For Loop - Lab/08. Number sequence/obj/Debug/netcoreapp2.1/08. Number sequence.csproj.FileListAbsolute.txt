@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp2.1\08. Number sequence.deps.json
+C:\Users\Gabby\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp2.1\08. Number sequence.runtimeconfig.json
+C:\Users\Gabby\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp2.1\08. Number sequence.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp2.1\08. Number sequence.dll
+C:\Users\Gabby\source\repos\For Loop - Lab\08. Number sequence\bin\Debug\netcoreapp2.1\08. Number sequence.pdb
+C:\Users\Gabby\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp2.1\08. Number sequence.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp2.1\08. Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp2.1\08. Number sequence.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp2.1\08. Number sequence.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp2.1\08. Number sequence.dll
+C:\Users\Gabby\source\repos\For Loop - Lab\08. Number sequence\obj\Debug\netcoreapp2.1\08. Number sequence.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\For Loop - Lab\11. Clever Lily\bin\Debug\netcoreapp2.1\11. Clever Lily.deps.json
+C:\Users\Gabby\source\repos\For Loop - Lab\11. Clever Lily\bin\Debug\netcoreapp2.1\11. Clever Lily.runtimeconfig.json
+C:\Users\Gabby\source\repos\For Loop - Lab\11. Clever Lily\bin\Debug\netcoreapp2.1\11. Clever Lily.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\For Loop - Lab\11. Clever Lily\bin\Debug\netcoreapp2.1\11. Clever Lily.dll
+C:\Users\Gabby\source\repos\For Loop - Lab\11. Clever Lily\bin\Debug\netcoreapp2.1\11. Clever Lily.pdb
+C:\Users\Gabby\source\repos\For Loop - Lab\11. Clever Lily\obj\Debug\netcoreapp2.1\11. Clever Lily.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\11. Clever Lily\obj\Debug\netcoreapp2.1\11. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\11. Clever Lily\obj\Debug\netcoreapp2.1\11. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\11. Clever Lily\obj\Debug\netcoreapp2.1\11. Clever Lily.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\For Loop - Lab\11. Clever Lily\obj\Debug\netcoreapp2.1\11. Clever Lily.dll
+C:\Users\Gabby\source\repos\For Loop - Lab\11. Clever Lily\obj\Debug\netcoreapp2.1\11. Clever Lily.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp2.1\06. Vowels Sum.deps.json
+C:\Users\Gabby\source\repos\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp2.1\06. Vowels Sum.runtimeconfig.json
+C:\Users\Gabby\source\repos\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp2.1\06. Vowels Sum.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp2.1\06. Vowels Sum.dll
+C:\Users\Gabby\source\repos\For Loop - Lab\06. Vowels Sum\bin\Debug\netcoreapp2.1\06. Vowels Sum.pdb
+C:\Users\Gabby\source\repos\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp2.1\06. Vowels Sum.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp2.1\06. Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp2.1\06. Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp2.1\06. Vowels Sum.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp2.1\06. Vowels Sum.dll
+C:\Users\Gabby\source\repos\For Loop - Lab\06. Vowels Sum\obj\Debug\netcoreapp2.1\06. Vowels Sum.pdb
