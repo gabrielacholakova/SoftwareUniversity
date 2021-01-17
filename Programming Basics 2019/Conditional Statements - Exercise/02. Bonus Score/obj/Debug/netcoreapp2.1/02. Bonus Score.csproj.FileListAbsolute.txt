@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp2.1\02. Bonus Score.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp2.1\02. Bonus Score.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp2.1\02. Bonus Score.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp2.1\02. Bonus Score.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\netcoreapp2.1\02. Bonus Score.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp2.1\02. Bonus Score.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp2.1\02. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp2.1\02. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp2.1\02. Bonus Score.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp2.1\02. Bonus Score.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\netcoreapp2.1\02. Bonus Score.pdb

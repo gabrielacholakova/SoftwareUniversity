@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\08. Scholarship\bin\Debug\netcoreapp2.1\08. Scholarship.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\08. Scholarship\bin\Debug\netcoreapp2.1\08. Scholarship.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\08. Scholarship\bin\Debug\netcoreapp2.1\08. Scholarship.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\08. Scholarship\bin\Debug\netcoreapp2.1\08. Scholarship.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\08. Scholarship\bin\Debug\netcoreapp2.1\08. Scholarship.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\08. Scholarship\obj\Debug\netcoreapp2.1\08. Scholarship.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\08. Scholarship\obj\Debug\netcoreapp2.1\08. Scholarship.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\08. Scholarship\obj\Debug\netcoreapp2.1\08. Scholarship.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\08. Scholarship\obj\Debug\netcoreapp2.1\08. Scholarship.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\08. Scholarship\obj\Debug\netcoreapp2.1\08. Scholarship.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\08. Scholarship\obj\Debug\netcoreapp2.1\08. Scholarship.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\03. Speed Info\bin\Debug\netcoreapp2.1\03. Speed Info.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\03. Speed Info\bin\Debug\netcoreapp2.1\03. Speed Info.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\03. Speed Info\bin\Debug\netcoreapp2.1\03. Speed Info.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\03. Speed Info\bin\Debug\netcoreapp2.1\03. Speed Info.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\03. Speed Info\bin\Debug\netcoreapp2.1\03. Speed Info.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\03. Speed Info\obj\Debug\netcoreapp2.1\03. Speed Info.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\03. Speed Info\obj\Debug\netcoreapp2.1\03. Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\03. Speed Info\obj\Debug\netcoreapp2.1\03. Speed Info.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\03. Speed Info\obj\Debug\netcoreapp2.1\03. Speed Info.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\03. Speed Info\obj\Debug\netcoreapp2.1\03. Speed Info.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\03. Speed Info\obj\Debug\netcoreapp2.1\03. Speed Info.pdb

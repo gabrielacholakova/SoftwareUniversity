@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp2.1\01. Sum Seconds.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp2.1\01. Sum Seconds.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp2.1\01. Sum Seconds.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp2.1\01. Sum Seconds.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp2.1\01. Sum Seconds.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp2.1\01. Sum Seconds.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp2.1\01. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp2.1\01. Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp2.1\01. Sum Seconds.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp2.1\01. Sum Seconds.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp2.1\01. Sum Seconds.pdb

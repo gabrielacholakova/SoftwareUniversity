@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\07. World Swimming Record\bin\Debug\netcoreapp2.1\07. World Swimming Record.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\07. World Swimming Record\bin\Debug\netcoreapp2.1\07. World Swimming Record.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\07. World Swimming Record\bin\Debug\netcoreapp2.1\07. World Swimming Record.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\07. World Swimming Record\bin\Debug\netcoreapp2.1\07. World Swimming Record.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\07. World Swimming Record\bin\Debug\netcoreapp2.1\07. World Swimming Record.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp2.1\07. World Swimming Record.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp2.1\07. World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp2.1\07. World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp2.1\07. World Swimming Record.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp2.1\07. World Swimming Record.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Exercise\07. World Swimming Record\obj\Debug\netcoreapp2.1\07. World Swimming Record.pdb

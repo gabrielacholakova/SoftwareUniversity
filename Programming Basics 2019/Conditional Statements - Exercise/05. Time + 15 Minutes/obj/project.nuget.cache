@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BEOnqB2fwCzknOWa9+Gi9l6wxKLvyTtSCKEZ+hzRqp9iSqeZdR8PSeWK5p6BawB7ZwQ3Sb2Axv4qf1h5NdhADA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabby\\source\\repos\\Gabby\\Gabby\\Programming Basics\\Conditional Statements - Exercise\\05. Time + 15 Minutes\\05. Time + 15 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
