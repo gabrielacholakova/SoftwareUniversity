@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\03. Odd - Even Position\bin\Debug\netcoreapp2.1\03. Odd - Even Position.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\03. Odd - Even Position\bin\Debug\netcoreapp2.1\03. Odd - Even Position.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\03. Odd - Even Position\bin\Debug\netcoreapp2.1\03. Odd - Even Position.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\03. Odd - Even Position\bin\Debug\netcoreapp2.1\03. Odd - Even Position.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\03. Odd - Even Position\bin\Debug\netcoreapp2.1\03. Odd - Even Position.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\03. Odd - Even Position\obj\Debug\netcoreapp2.1\03. Odd - Even Position.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\03. Odd - Even Position\obj\Debug\netcoreapp2.1\03. Odd - Even Position.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\03. Odd - Even Position\obj\Debug\netcoreapp2.1\03. Odd - Even Position.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\03. Odd - Even Position\obj\Debug\netcoreapp2.1\03. Odd - Even Position.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\03. Odd - Even Position\obj\Debug\netcoreapp2.1\03. Odd - Even Position.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\03. Odd - Even Position\obj\Debug\netcoreapp2.1\03. Odd - Even Position.pdb

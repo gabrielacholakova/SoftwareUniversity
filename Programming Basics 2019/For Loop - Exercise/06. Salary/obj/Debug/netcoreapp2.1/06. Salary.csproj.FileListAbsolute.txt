@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\06. Salary\bin\Debug\netcoreapp2.1\06. Salary.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\06. Salary\bin\Debug\netcoreapp2.1\06. Salary.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\06. Salary\bin\Debug\netcoreapp2.1\06. Salary.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\06. Salary\bin\Debug\netcoreapp2.1\06. Salary.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\06. Salary\bin\Debug\netcoreapp2.1\06. Salary.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\06. Salary\obj\Debug\netcoreapp2.1\06. Salary.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\06. Salary\obj\Debug\netcoreapp2.1\06. Salary.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\06. Salary\obj\Debug\netcoreapp2.1\06. Salary.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\06. Salary\obj\Debug\netcoreapp2.1\06. Salary.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\06. Salary\obj\Debug\netcoreapp2.1\06. Salary.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\06. Salary\obj\Debug\netcoreapp2.1\06. Salary.pdb

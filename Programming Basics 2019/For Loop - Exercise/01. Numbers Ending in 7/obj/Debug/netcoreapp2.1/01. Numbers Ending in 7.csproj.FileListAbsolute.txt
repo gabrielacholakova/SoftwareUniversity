@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\For Loop - Exercise\bin\Debug\netcoreapp2.1\01. Numbers Ending in 7.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\For Loop - Exercise\bin\Debug\netcoreapp2.1\01. Numbers Ending in 7.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\For Loop - Exercise\bin\Debug\netcoreapp2.1\01. Numbers Ending in 7.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\For Loop - Exercise\bin\Debug\netcoreapp2.1\01. Numbers Ending in 7.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\For Loop - Exercise\bin\Debug\netcoreapp2.1\01. Numbers Ending in 7.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp2.1\01. Numbers Ending in 7.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp2.1\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp2.1\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp2.1\01. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp2.1\01. Numbers Ending in 7.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\For Loop - Exercise\For Loop - Exercise\obj\Debug\netcoreapp2.1\01. Numbers Ending in 7.pdb
