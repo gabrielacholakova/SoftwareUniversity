@@ -1,0 +1,4 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp2.1\02. Greater Number.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp2.1\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp2.1\02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp2.1\02. Greater Number.AssemblyInfo.cs

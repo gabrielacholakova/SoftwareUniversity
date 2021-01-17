@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ZWz49MU2CvTRyX3x764zriy8pvddIeRJOyMZofeYCbBeWiQ3VW3YTRSH1ibT0u1dOwj5iMQKdGKqj7DVCO44A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabby\\source\\repos\\Gabby\\Gabby\\Programming Basics\\Conditional Statements - Lab\\07. Toy Shop\\07. Toy Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

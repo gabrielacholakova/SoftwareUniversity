@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\07. Toy Shop\bin\Debug\netcoreapp2.1\07. Toy Shop.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\07. Toy Shop\bin\Debug\netcoreapp2.1\07. Toy Shop.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\07. Toy Shop\bin\Debug\netcoreapp2.1\07. Toy Shop.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\07. Toy Shop\bin\Debug\netcoreapp2.1\07. Toy Shop.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\07. Toy Shop\bin\Debug\netcoreapp2.1\07. Toy Shop.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp2.1\07. Toy Shop.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp2.1\07. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp2.1\07. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp2.1\07. Toy Shop.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp2.1\07. Toy Shop.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements - Lab\07. Toy Shop\obj\Debug\netcoreapp2.1\07. Toy Shop.pdb
