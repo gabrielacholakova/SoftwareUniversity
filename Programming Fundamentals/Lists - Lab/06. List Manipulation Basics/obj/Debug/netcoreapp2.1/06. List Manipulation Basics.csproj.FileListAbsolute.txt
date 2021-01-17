@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.deps.json
+C:\Users\Gabby\source\repos\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.runtimeconfig.json
+C:\Users\Gabby\source\repos\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.dll
+C:\Users\Gabby\source\repos\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.pdb
+C:\Users\Gabby\source\repos\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.dll
+C:\Users\Gabby\source\repos\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.pdb

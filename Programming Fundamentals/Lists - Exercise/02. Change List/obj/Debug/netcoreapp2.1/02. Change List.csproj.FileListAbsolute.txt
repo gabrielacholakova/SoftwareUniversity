@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.deps.json
+C:\Users\Gabby\source\repos\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.runtimeconfig.json
+C:\Users\Gabby\source\repos\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.dll
+C:\Users\Gabby\source\repos\Lists - Exercise\02. Change List\bin\Debug\netcoreapp2.1\02. Change List.pdb
+C:\Users\Gabby\source\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.dll
+C:\Users\Gabby\source\repos\Lists - Exercise\02. Change List\obj\Debug\netcoreapp2.1\02. Change List.pdb

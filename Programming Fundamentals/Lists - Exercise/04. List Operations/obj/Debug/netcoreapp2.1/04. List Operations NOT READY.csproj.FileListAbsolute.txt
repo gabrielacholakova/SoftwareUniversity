@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations NOT READY.deps.json
+C:\Users\Gabby\source\repos\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations NOT READY.runtimeconfig.json
+C:\Users\Gabby\source\repos\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations NOT READY.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations NOT READY.dll
+C:\Users\Gabby\source\repos\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations NOT READY.pdb
+C:\Users\Gabby\source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations NOT READY.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations NOT READY.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations NOT READY.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations NOT READY.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations NOT READY.dll
+C:\Users\Gabby\source\repos\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations NOT READY.pdb

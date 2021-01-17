@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp2.1\08. Factorial Division.deps.json
+C:\Users\Gabby\source\repos\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp2.1\08. Factorial Division.runtimeconfig.json
+C:\Users\Gabby\source\repos\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp2.1\08. Factorial Division.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp2.1\08. Factorial Division.dll
+C:\Users\Gabby\source\repos\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp2.1\08. Factorial Division.pdb
+C:\Users\Gabby\source\repos\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp2.1\08. Factorial Division.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp2.1\08. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp2.1\08. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp2.1\08. Factorial Division.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp2.1\08. Factorial Division.dll
+C:\Users\Gabby\source\repos\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp2.1\08. Factorial Division.pdb

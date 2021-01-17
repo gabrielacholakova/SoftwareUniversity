@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.pdb

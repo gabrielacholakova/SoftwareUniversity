@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp2.1\08. Anonymous Threat.deps.json
+C:\Users\Gabby\source\repos\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp2.1\08. Anonymous Threat.runtimeconfig.json
+C:\Users\Gabby\source\repos\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp2.1\08. Anonymous Threat.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp2.1\08. Anonymous Threat.dll
+C:\Users\Gabby\source\repos\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp2.1\08. Anonymous Threat.pdb
+C:\Users\Gabby\source\repos\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp2.1\08. Anonymous Threat.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp2.1\08. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp2.1\08. Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp2.1\08. Anonymous Threat.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp2.1\08. Anonymous Threat.dll
+C:\Users\Gabby\source\repos\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp2.1\08. Anonymous Threat.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\11. Multiplication Table 2.0\bin\Debug\netcoreapp2.1\11. Multiplication Table 2.0.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\11. Multiplication Table 2.0\bin\Debug\netcoreapp2.1\11. Multiplication Table 2.0.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\11. Multiplication Table 2.0\bin\Debug\netcoreapp2.1\11. Multiplication Table 2.0.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\11. Multiplication Table 2.0\bin\Debug\netcoreapp2.1\11. Multiplication Table 2.0.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\11. Multiplication Table 2.0\bin\Debug\netcoreapp2.1\11. Multiplication Table 2.0.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\11. Multiplication Table 2.0\obj\Debug\netcoreapp2.1\11. Multiplication Table 2.0.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\11. Multiplication Table 2.0\obj\Debug\netcoreapp2.1\11. Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\11. Multiplication Table 2.0\obj\Debug\netcoreapp2.1\11. Multiplication Table 2.0.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\11. Multiplication Table 2.0\obj\Debug\netcoreapp2.1\11. Multiplication Table 2.0.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\11. Multiplication Table 2.0\obj\Debug\netcoreapp2.1\11. Multiplication Table 2.0.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\11. Multiplication Table 2.0\obj\Debug\netcoreapp2.1\11. Multiplication Table 2.0.pdb

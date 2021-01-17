@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\Methods - Lab\bin\Debug\netcoreapp2.1\01. Sign of Integer Numbers.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\Methods - Lab\bin\Debug\netcoreapp2.1\01. Sign of Integer Numbers.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\Methods - Lab\bin\Debug\netcoreapp2.1\01. Sign of Integer Numbers.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\Methods - Lab\bin\Debug\netcoreapp2.1\01. Sign of Integer Numbers.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\Methods - Lab\bin\Debug\netcoreapp2.1\01. Sign of Integer Numbers.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\Methods - Lab\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\Methods - Lab\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\Methods - Lab\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\Methods - Lab\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\Methods - Lab\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\Methods - Lab\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.pdb

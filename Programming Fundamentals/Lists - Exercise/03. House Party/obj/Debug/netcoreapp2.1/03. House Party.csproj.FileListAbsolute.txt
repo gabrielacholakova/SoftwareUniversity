@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.deps.json
+C:\Users\Gabby\source\repos\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.runtimeconfig.json
+C:\Users\Gabby\source\repos\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.dll
+C:\Users\Gabby\source\repos\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.pdb
+C:\Users\Gabby\source\repos\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.dll
+C:\Users\Gabby\source\repos\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.pdb

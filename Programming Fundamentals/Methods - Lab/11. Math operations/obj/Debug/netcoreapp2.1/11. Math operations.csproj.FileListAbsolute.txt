@@ -1,0 +1,10 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.1\11. Math operations.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.1\11. Math operations.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.1\11. Math operations.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.1\11. Math operations.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.1\11. Math operations.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.1\11. Math operations.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.1\11. Math operations.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.1\11. Math operations.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.1\11. Math operations.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.1\11. Math operations.pdb

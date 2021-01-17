@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp2.1\01. Sum Adjacent Equal Numbers.deps.json
+C:\Users\Gabby\source\repos\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp2.1\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\Gabby\source\repos\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp2.1\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp2.1\01. Sum Adjacent Equal Numbers.dll
+C:\Users\Gabby\source\repos\Lists - Lab\Lists - Lab\bin\Debug\netcoreapp2.1\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\Gabby\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.1\01. Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.1\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.1\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.1\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.1\01. Sum Adjacent Equal Numbers.dll
+C:\Users\Gabby\source\repos\Lists - Lab\Lists - Lab\obj\Debug\netcoreapp2.1\01. Sum Adjacent Equal Numbers.pdb

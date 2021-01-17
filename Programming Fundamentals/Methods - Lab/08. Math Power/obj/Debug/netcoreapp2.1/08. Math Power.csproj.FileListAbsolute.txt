@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\08. Math Power\bin\Debug\netcoreapp2.1\08. Math Power.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\08. Math Power\bin\Debug\netcoreapp2.1\08. Math Power.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\08. Math Power\bin\Debug\netcoreapp2.1\08. Math Power.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\08. Math Power\bin\Debug\netcoreapp2.1\08. Math Power.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\08. Math Power\bin\Debug\netcoreapp2.1\08. Math Power.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp2.1\08. Math Power.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp2.1\08. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp2.1\08. Math Power.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp2.1\08. Math Power.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp2.1\08. Math Power.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp2.1\08. Math Power.pdb

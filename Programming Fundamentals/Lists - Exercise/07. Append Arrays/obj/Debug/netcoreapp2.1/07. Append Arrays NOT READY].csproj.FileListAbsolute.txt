@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays NOT READY].deps.json
+C:\Users\Gabby\source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays NOT READY].runtimeconfig.json
+C:\Users\Gabby\source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays NOT READY].runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays NOT READY].dll
+C:\Users\Gabby\source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\netcoreapp2.1\07. Append Arrays NOT READY].pdb
+C:\Users\Gabby\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays NOT READY].csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays NOT READY].csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays NOT READY].AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays NOT READY].AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays NOT READY].dll
+C:\Users\Gabby\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\netcoreapp2.1\07. Append Arrays NOT READY].pdb

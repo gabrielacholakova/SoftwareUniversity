@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Lists - Lab\08. Final Manipulation Advanced\bin\Debug\netcoreapp2.1\08. Final Manipulation Advanced.deps.json
+C:\Users\Gabby\source\repos\Lists - Lab\08. Final Manipulation Advanced\bin\Debug\netcoreapp2.1\08. Final Manipulation Advanced.runtimeconfig.json
+C:\Users\Gabby\source\repos\Lists - Lab\08. Final Manipulation Advanced\bin\Debug\netcoreapp2.1\08. Final Manipulation Advanced.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Lists - Lab\08. Final Manipulation Advanced\bin\Debug\netcoreapp2.1\08. Final Manipulation Advanced.dll
+C:\Users\Gabby\source\repos\Lists - Lab\08. Final Manipulation Advanced\bin\Debug\netcoreapp2.1\08. Final Manipulation Advanced.pdb
+C:\Users\Gabby\source\repos\Lists - Lab\08. Final Manipulation Advanced\obj\Debug\netcoreapp2.1\08. Final Manipulation Advanced.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Lists - Lab\08. Final Manipulation Advanced\obj\Debug\netcoreapp2.1\08. Final Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Lists - Lab\08. Final Manipulation Advanced\obj\Debug\netcoreapp2.1\08. Final Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Lists - Lab\08. Final Manipulation Advanced\obj\Debug\netcoreapp2.1\08. Final Manipulation Advanced.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Lists - Lab\08. Final Manipulation Advanced\obj\Debug\netcoreapp2.1\08. Final Manipulation Advanced.dll
+C:\Users\Gabby\source\repos\Lists - Lab\08. Final Manipulation Advanced\obj\Debug\netcoreapp2.1\08. Final Manipulation Advanced.pdb

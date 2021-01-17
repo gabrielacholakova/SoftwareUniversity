@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\12. Even Number\bin\Debug\netcoreapp2.1\12. Even Number.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Fundamentals\Basic Syntax  Lab\12. Even Number\obj\Debug\netcoreapp2.1\12. Even Number.pdb

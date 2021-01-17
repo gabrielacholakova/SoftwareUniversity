@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.deps.json
+C:\Users\Gabby\source\repos\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.runtimeconfig.json
+C:\Users\Gabby\source\repos\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.dll
+C:\Users\Gabby\source\repos\Lists - Lab\04. List of Products\bin\Debug\netcoreapp2.1\04. List of Products.pdb
+C:\Users\Gabby\source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.dll
+C:\Users\Gabby\source\repos\Lists - Lab\04. List of Products\obj\Debug\netcoreapp2.1\04. List of Products.pdb

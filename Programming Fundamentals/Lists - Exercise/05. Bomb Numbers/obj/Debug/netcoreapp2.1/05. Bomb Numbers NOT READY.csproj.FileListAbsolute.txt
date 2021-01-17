@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers NOT READY.deps.json
+C:\Users\Gabby\source\repos\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers NOT READY.runtimeconfig.json
+C:\Users\Gabby\source\repos\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers NOT READY.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers NOT READY.dll
+C:\Users\Gabby\source\repos\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp2.1\05. Bomb Numbers NOT READY.pdb
+C:\Users\Gabby\source\repos\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers NOT READY.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers NOT READY.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers NOT READY.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers NOT READY.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers NOT READY.dll
+C:\Users\Gabby\source\repos\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp2.1\05. Bomb Numbers NOT READY.pdb
