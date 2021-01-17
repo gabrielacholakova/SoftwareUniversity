@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp2.1\06. Building.deps.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp2.1\06. Building.runtimeconfig.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp2.1\06. Building.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp2.1\06. Building.dll
+C:\Users\Gabby\source\repos\Nested Loops - Lab\06. Building\bin\Debug\netcoreapp2.1\06. Building.pdb
+C:\Users\Gabby\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp2.1\06. Building.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp2.1\06. Building.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp2.1\06. Building.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp2.1\06. Building.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp2.1\06. Building.dll
+C:\Users\Gabby\source\repos\Nested Loops - Lab\06. Building\obj\Debug\netcoreapp2.1\06. Building.pdb

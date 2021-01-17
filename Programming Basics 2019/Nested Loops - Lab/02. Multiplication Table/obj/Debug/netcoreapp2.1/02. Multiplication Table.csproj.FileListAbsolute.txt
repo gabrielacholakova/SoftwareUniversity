@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp2.1\02. Multiplication Table.deps.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp2.1\02. Multiplication Table.runtimeconfig.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp2.1\02. Multiplication Table.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp2.1\02. Multiplication Table.dll
+C:\Users\Gabby\source\repos\Nested Loops - Lab\02. Multiplication Table\bin\Debug\netcoreapp2.1\02. Multiplication Table.pdb
+C:\Users\Gabby\source\repos\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp2.1\02. Multiplication Table.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp2.1\02. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp2.1\02. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp2.1\02. Multiplication Table.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp2.1\02. Multiplication Table.dll
+C:\Users\Gabby\source\repos\Nested Loops - Lab\02. Multiplication Table\obj\Debug\netcoreapp2.1\02. Multiplication Table.pdb

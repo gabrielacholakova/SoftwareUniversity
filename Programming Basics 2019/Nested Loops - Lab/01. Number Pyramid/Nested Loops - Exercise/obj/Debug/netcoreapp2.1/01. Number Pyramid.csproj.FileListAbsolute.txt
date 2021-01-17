@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\Nested Loops - Exercise\bin\Debug\netcoreapp2.1\01. Number Pyramid.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\Nested Loops - Exercise\bin\Debug\netcoreapp2.1\01. Number Pyramid.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\Nested Loops - Exercise\bin\Debug\netcoreapp2.1\01. Number Pyramid.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\Nested Loops - Exercise\bin\Debug\netcoreapp2.1\01. Number Pyramid.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\Nested Loops - Exercise\bin\Debug\netcoreapp2.1\01. Number Pyramid.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\Nested Loops - Exercise\obj\Debug\netcoreapp2.1\01. Number Pyramid.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\Nested Loops - Exercise\obj\Debug\netcoreapp2.1\01. Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\Nested Loops - Exercise\obj\Debug\netcoreapp2.1\01. Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\Nested Loops - Exercise\obj\Debug\netcoreapp2.1\01. Number Pyramid.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\Nested Loops - Exercise\obj\Debug\netcoreapp2.1\01. Number Pyramid.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\Nested Loops - Exercise\obj\Debug\netcoreapp2.1\01. Number Pyramid.pdb

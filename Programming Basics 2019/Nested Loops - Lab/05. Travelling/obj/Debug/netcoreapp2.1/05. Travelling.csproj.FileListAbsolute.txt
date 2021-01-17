@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp2.1\05. Travelling.deps.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp2.1\05. Travelling.runtimeconfig.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp2.1\05. Travelling.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp2.1\05. Travelling.dll
+C:\Users\Gabby\source\repos\Nested Loops - Lab\05. Travelling\bin\Debug\netcoreapp2.1\05. Travelling.pdb
+C:\Users\Gabby\source\repos\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp2.1\05. Travelling.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp2.1\05. Travelling.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp2.1\05. Travelling.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp2.1\05. Travelling.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp2.1\05. Travelling.dll
+C:\Users\Gabby\source\repos\Nested Loops - Lab\05. Travelling\obj\Debug\netcoreapp2.1\05. Travelling.pdb

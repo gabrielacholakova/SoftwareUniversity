@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\03. Sum Prime Non Prime\bin\Debug\netcoreapp2.1\03. Sum Prime Non Prime.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\03. Sum Prime Non Prime\bin\Debug\netcoreapp2.1\03. Sum Prime Non Prime.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\03. Sum Prime Non Prime\bin\Debug\netcoreapp2.1\03. Sum Prime Non Prime.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\03. Sum Prime Non Prime\bin\Debug\netcoreapp2.1\03. Sum Prime Non Prime.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\03. Sum Prime Non Prime\bin\Debug\netcoreapp2.1\03. Sum Prime Non Prime.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\03. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\03. Sum Prime Non Prime.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\03. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\03. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\03. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\03. Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\03. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\03. Sum Prime Non Prime.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\03. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\03. Sum Prime Non Prime.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\03. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\03. Sum Prime Non Prime.pdb

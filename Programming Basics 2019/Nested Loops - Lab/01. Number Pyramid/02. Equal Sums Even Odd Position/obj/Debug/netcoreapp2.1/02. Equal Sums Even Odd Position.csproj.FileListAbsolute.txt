@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\02. Equal Sums Even Odd Position.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\02. Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\02. Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\02. Equal Sums Even Odd Position.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\02. Equal Sums Even Odd Position.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\02. Equal Sums Even Odd Position.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\02. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\02. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\02. Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\02. Equal Sums Even Odd Position.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\01. Number Pyramid\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\02. Equal Sums Even Odd Position.pdb

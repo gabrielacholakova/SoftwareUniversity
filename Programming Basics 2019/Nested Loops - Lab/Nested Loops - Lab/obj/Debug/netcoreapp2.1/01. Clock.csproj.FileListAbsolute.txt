@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\netcoreapp2.1\01. Clock.deps.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\netcoreapp2.1\01. Clock.runtimeconfig.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\netcoreapp2.1\01. Clock.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\netcoreapp2.1\01. Clock.dll
+C:\Users\Gabby\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\netcoreapp2.1\01. Clock.pdb
+C:\Users\Gabby\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\netcoreapp2.1\01. Clock.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\netcoreapp2.1\01. Clock.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\netcoreapp2.1\01. Clock.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\netcoreapp2.1\01. Clock.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\netcoreapp2.1\01. Clock.dll
+C:\Users\Gabby\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\netcoreapp2.1\01. Clock.pdb

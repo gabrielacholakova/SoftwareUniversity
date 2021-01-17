@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Nested Loops - Lab\07. Cinema Tickets\bin\Debug\netcoreapp2.1\07. Cinema Tickets.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Nested Loops - Lab\07. Cinema Tickets\bin\Debug\netcoreapp2.1\07. Cinema Tickets.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Nested Loops - Lab\07. Cinema Tickets\bin\Debug\netcoreapp2.1\07. Cinema Tickets.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Nested Loops - Lab\07. Cinema Tickets\bin\Debug\netcoreapp2.1\07. Cinema Tickets.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Nested Loops - Lab\07. Cinema Tickets\bin\Debug\netcoreapp2.1\07. Cinema Tickets.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp2.1\07. Cinema Tickets.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp2.1\07. Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp2.1\07. Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp2.1\07. Cinema Tickets.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp2.1\07. Cinema Tickets.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Nested Loops - Lab\07. Cinema Tickets\obj\Debug\netcoreapp2.1\07. Cinema Tickets.pdb
