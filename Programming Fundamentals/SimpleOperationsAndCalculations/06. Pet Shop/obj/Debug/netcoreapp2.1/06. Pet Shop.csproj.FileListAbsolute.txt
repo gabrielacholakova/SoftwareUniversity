@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\06. Pet Shop\bin\Debug\netcoreapp2.1\06. Pet Shop.deps.json
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\06. Pet Shop\bin\Debug\netcoreapp2.1\06. Pet Shop.runtimeconfig.json
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\06. Pet Shop\bin\Debug\netcoreapp2.1\06. Pet Shop.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\06. Pet Shop\bin\Debug\netcoreapp2.1\06. Pet Shop.dll
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\06. Pet Shop\bin\Debug\netcoreapp2.1\06. Pet Shop.pdb
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\06. Pet Shop\obj\Debug\netcoreapp2.1\06. Pet Shop.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\06. Pet Shop\obj\Debug\netcoreapp2.1\06. Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\06. Pet Shop\obj\Debug\netcoreapp2.1\06. Pet Shop.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\06. Pet Shop\obj\Debug\netcoreapp2.1\06. Pet Shop.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\06. Pet Shop\obj\Debug\netcoreapp2.1\06. Pet Shop.dll
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\06. Pet Shop\obj\Debug\netcoreapp2.1\06. Pet Shop.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\05. Projects Creation\bin\Debug\netcoreapp2.1\05. Projects Creation.deps.json
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\05. Projects Creation\bin\Debug\netcoreapp2.1\05. Projects Creation.runtimeconfig.json
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\05. Projects Creation\bin\Debug\netcoreapp2.1\05. Projects Creation.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\05. Projects Creation\bin\Debug\netcoreapp2.1\05. Projects Creation.dll
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\05. Projects Creation\bin\Debug\netcoreapp2.1\05. Projects Creation.pdb
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.dll
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\05. Projects Creation\obj\Debug\netcoreapp2.1\05. Projects Creation.pdb

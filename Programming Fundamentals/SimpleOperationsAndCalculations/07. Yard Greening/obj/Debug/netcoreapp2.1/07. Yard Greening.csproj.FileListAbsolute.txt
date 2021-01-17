@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\07. Yard Greening\bin\Debug\netcoreapp2.1\07. Yard Greening.deps.json
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\07. Yard Greening\bin\Debug\netcoreapp2.1\07. Yard Greening.runtimeconfig.json
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\07. Yard Greening\bin\Debug\netcoreapp2.1\07. Yard Greening.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\07. Yard Greening\bin\Debug\netcoreapp2.1\07. Yard Greening.dll
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\07. Yard Greening\bin\Debug\netcoreapp2.1\07. Yard Greening.pdb
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\07. Yard Greening\obj\Debug\netcoreapp2.1\07. Yard Greening.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\07. Yard Greening\obj\Debug\netcoreapp2.1\07. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\07. Yard Greening\obj\Debug\netcoreapp2.1\07. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\07. Yard Greening\obj\Debug\netcoreapp2.1\07. Yard Greening.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\07. Yard Greening\obj\Debug\netcoreapp2.1\07. Yard Greening.dll
+C:\Users\Gabby\source\repos\SimpleOperationsAndCalculations\07. Yard Greening\obj\Debug\netcoreapp2.1\07. Yard Greening.pdb
