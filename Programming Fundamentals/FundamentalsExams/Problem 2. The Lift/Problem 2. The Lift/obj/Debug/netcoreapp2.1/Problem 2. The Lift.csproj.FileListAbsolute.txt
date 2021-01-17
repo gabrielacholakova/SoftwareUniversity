@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Problem 2. The Lift\Problem 2. The Lift\bin\Debug\netcoreapp2.1\Problem 2. The Lift.deps.json
+C:\Users\Gabby\source\repos\Problem 2. The Lift\Problem 2. The Lift\bin\Debug\netcoreapp2.1\Problem 2. The Lift.runtimeconfig.json
+C:\Users\Gabby\source\repos\Problem 2. The Lift\Problem 2. The Lift\bin\Debug\netcoreapp2.1\Problem 2. The Lift.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Problem 2. The Lift\Problem 2. The Lift\bin\Debug\netcoreapp2.1\Problem 2. The Lift.dll
+C:\Users\Gabby\source\repos\Problem 2. The Lift\Problem 2. The Lift\bin\Debug\netcoreapp2.1\Problem 2. The Lift.pdb
+C:\Users\Gabby\source\repos\Problem 2. The Lift\Problem 2. The Lift\obj\Debug\netcoreapp2.1\Problem 2. The Lift.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Problem 2. The Lift\Problem 2. The Lift\obj\Debug\netcoreapp2.1\Problem 2. The Lift.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Problem 2. The Lift\Problem 2. The Lift\obj\Debug\netcoreapp2.1\Problem 2. The Lift.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Problem 2. The Lift\Problem 2. The Lift\obj\Debug\netcoreapp2.1\Problem 2. The Lift.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Problem 2. The Lift\Problem 2. The Lift\obj\Debug\netcoreapp2.1\Problem 2. The Lift.dll
+C:\Users\Gabby\source\repos\Problem 2. The Lift\Problem 2. The Lift\obj\Debug\netcoreapp2.1\Problem 2. The Lift.pdb

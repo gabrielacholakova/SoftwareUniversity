@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\01.  SoftUni Reception\01.  SoftUni Reception\bin\Debug\netcoreapp2.1\01.  SoftUni Reception.deps.json
+C:\Users\Gabby\source\repos\01.  SoftUni Reception\01.  SoftUni Reception\bin\Debug\netcoreapp2.1\01.  SoftUni Reception.runtimeconfig.json
+C:\Users\Gabby\source\repos\01.  SoftUni Reception\01.  SoftUni Reception\bin\Debug\netcoreapp2.1\01.  SoftUni Reception.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\01.  SoftUni Reception\01.  SoftUni Reception\bin\Debug\netcoreapp2.1\01.  SoftUni Reception.dll
+C:\Users\Gabby\source\repos\01.  SoftUni Reception\01.  SoftUni Reception\bin\Debug\netcoreapp2.1\01.  SoftUni Reception.pdb
+C:\Users\Gabby\source\repos\01.  SoftUni Reception\01.  SoftUni Reception\obj\Debug\netcoreapp2.1\01.  SoftUni Reception.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\01.  SoftUni Reception\01.  SoftUni Reception\obj\Debug\netcoreapp2.1\01.  SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\01.  SoftUni Reception\01.  SoftUni Reception\obj\Debug\netcoreapp2.1\01.  SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\01.  SoftUni Reception\01.  SoftUni Reception\obj\Debug\netcoreapp2.1\01.  SoftUni Reception.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\01.  SoftUni Reception\01.  SoftUni Reception\obj\Debug\netcoreapp2.1\01.  SoftUni Reception.dll
+C:\Users\Gabby\source\repos\01.  SoftUni Reception\01.  SoftUni Reception\obj\Debug\netcoreapp2.1\01.  SoftUni Reception.pdb

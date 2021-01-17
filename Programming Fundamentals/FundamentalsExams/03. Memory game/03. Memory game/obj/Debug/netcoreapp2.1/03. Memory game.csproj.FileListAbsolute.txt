@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\03. Memory game\03. Memory game\bin\Debug\netcoreapp2.1\03. Memory game.deps.json
+C:\Users\Gabby\source\repos\03. Memory game\03. Memory game\bin\Debug\netcoreapp2.1\03. Memory game.runtimeconfig.json
+C:\Users\Gabby\source\repos\03. Memory game\03. Memory game\bin\Debug\netcoreapp2.1\03. Memory game.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\03. Memory game\03. Memory game\bin\Debug\netcoreapp2.1\03. Memory game.dll
+C:\Users\Gabby\source\repos\03. Memory game\03. Memory game\bin\Debug\netcoreapp2.1\03. Memory game.pdb
+C:\Users\Gabby\source\repos\03. Memory game\03. Memory game\obj\Debug\netcoreapp2.1\03. Memory game.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\03. Memory game\03. Memory game\obj\Debug\netcoreapp2.1\03. Memory game.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\03. Memory game\03. Memory game\obj\Debug\netcoreapp2.1\03. Memory game.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\03. Memory game\03. Memory game\obj\Debug\netcoreapp2.1\03. Memory game.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\03. Memory game\03. Memory game\obj\Debug\netcoreapp2.1\03. Memory game.dll
+C:\Users\Gabby\source\repos\03. Memory game\03. Memory game\obj\Debug\netcoreapp2.1\03. Memory game.pdb

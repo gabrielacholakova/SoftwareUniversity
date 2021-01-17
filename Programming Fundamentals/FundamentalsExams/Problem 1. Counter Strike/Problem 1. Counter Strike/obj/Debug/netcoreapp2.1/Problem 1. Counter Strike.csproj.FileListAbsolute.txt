@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Problem 1. Counter Strike\Problem 1. Counter Strike\bin\Debug\netcoreapp2.1\Problem 1. Counter Strike.deps.json
+C:\Users\Gabby\source\repos\Problem 1. Counter Strike\Problem 1. Counter Strike\bin\Debug\netcoreapp2.1\Problem 1. Counter Strike.runtimeconfig.json
+C:\Users\Gabby\source\repos\Problem 1. Counter Strike\Problem 1. Counter Strike\bin\Debug\netcoreapp2.1\Problem 1. Counter Strike.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Problem 1. Counter Strike\Problem 1. Counter Strike\bin\Debug\netcoreapp2.1\Problem 1. Counter Strike.dll
+C:\Users\Gabby\source\repos\Problem 1. Counter Strike\Problem 1. Counter Strike\bin\Debug\netcoreapp2.1\Problem 1. Counter Strike.pdb
+C:\Users\Gabby\source\repos\Problem 1. Counter Strike\Problem 1. Counter Strike\obj\Debug\netcoreapp2.1\Problem 1. Counter Strike.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Problem 1. Counter Strike\Problem 1. Counter Strike\obj\Debug\netcoreapp2.1\Problem 1. Counter Strike.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Problem 1. Counter Strike\Problem 1. Counter Strike\obj\Debug\netcoreapp2.1\Problem 1. Counter Strike.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Problem 1. Counter Strike\Problem 1. Counter Strike\obj\Debug\netcoreapp2.1\Problem 1. Counter Strike.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Problem 1. Counter Strike\Problem 1. Counter Strike\obj\Debug\netcoreapp2.1\Problem 1. Counter Strike.dll
+C:\Users\Gabby\source\repos\Problem 1. Counter Strike\Problem 1. Counter Strike\obj\Debug\netcoreapp2.1\Problem 1. Counter Strike.pdb

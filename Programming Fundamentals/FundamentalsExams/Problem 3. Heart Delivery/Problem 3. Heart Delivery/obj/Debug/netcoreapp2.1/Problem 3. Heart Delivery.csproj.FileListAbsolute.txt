@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Problem 3. Heart Delivery\Problem 3. Heart Delivery\bin\Debug\netcoreapp2.1\Problem 3. Heart Delivery.deps.json
+C:\Users\Gabby\source\repos\Problem 3. Heart Delivery\Problem 3. Heart Delivery\bin\Debug\netcoreapp2.1\Problem 3. Heart Delivery.runtimeconfig.json
+C:\Users\Gabby\source\repos\Problem 3. Heart Delivery\Problem 3. Heart Delivery\bin\Debug\netcoreapp2.1\Problem 3. Heart Delivery.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Problem 3. Heart Delivery\Problem 3. Heart Delivery\bin\Debug\netcoreapp2.1\Problem 3. Heart Delivery.dll
+C:\Users\Gabby\source\repos\Problem 3. Heart Delivery\Problem 3. Heart Delivery\bin\Debug\netcoreapp2.1\Problem 3. Heart Delivery.pdb
+C:\Users\Gabby\source\repos\Problem 3. Heart Delivery\Problem 3. Heart Delivery\obj\Debug\netcoreapp2.1\Problem 3. Heart Delivery.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Problem 3. Heart Delivery\Problem 3. Heart Delivery\obj\Debug\netcoreapp2.1\Problem 3. Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Problem 3. Heart Delivery\Problem 3. Heart Delivery\obj\Debug\netcoreapp2.1\Problem 3. Heart Delivery.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Problem 3. Heart Delivery\Problem 3. Heart Delivery\obj\Debug\netcoreapp2.1\Problem 3. Heart Delivery.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Problem 3. Heart Delivery\Problem 3. Heart Delivery\obj\Debug\netcoreapp2.1\Problem 3. Heart Delivery.dll
+C:\Users\Gabby\source\repos\Problem 3. Heart Delivery\Problem 3. Heart Delivery\obj\Debug\netcoreapp2.1\Problem 3. Heart Delivery.pdb

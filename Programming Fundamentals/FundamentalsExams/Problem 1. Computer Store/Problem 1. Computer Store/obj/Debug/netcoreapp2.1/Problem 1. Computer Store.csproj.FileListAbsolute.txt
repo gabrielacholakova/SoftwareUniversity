@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Problem 1. Computer Store\Problem 1. Computer Store\bin\Debug\netcoreapp2.1\Problem 1. Computer Store.deps.json
+C:\Users\Gabby\source\repos\Problem 1. Computer Store\Problem 1. Computer Store\bin\Debug\netcoreapp2.1\Problem 1. Computer Store.runtimeconfig.json
+C:\Users\Gabby\source\repos\Problem 1. Computer Store\Problem 1. Computer Store\bin\Debug\netcoreapp2.1\Problem 1. Computer Store.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Problem 1. Computer Store\Problem 1. Computer Store\bin\Debug\netcoreapp2.1\Problem 1. Computer Store.dll
+C:\Users\Gabby\source\repos\Problem 1. Computer Store\Problem 1. Computer Store\bin\Debug\netcoreapp2.1\Problem 1. Computer Store.pdb
+C:\Users\Gabby\source\repos\Problem 1. Computer Store\Problem 1. Computer Store\obj\Debug\netcoreapp2.1\Problem 1. Computer Store.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Problem 1. Computer Store\Problem 1. Computer Store\obj\Debug\netcoreapp2.1\Problem 1. Computer Store.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Problem 1. Computer Store\Problem 1. Computer Store\obj\Debug\netcoreapp2.1\Problem 1. Computer Store.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Problem 1. Computer Store\Problem 1. Computer Store\obj\Debug\netcoreapp2.1\Problem 1. Computer Store.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Problem 1. Computer Store\Problem 1. Computer Store\obj\Debug\netcoreapp2.1\Problem 1. Computer Store.dll
+C:\Users\Gabby\source\repos\Problem 1. Computer Store\Problem 1. Computer Store\obj\Debug\netcoreapp2.1\Problem 1. Computer Store.pdb
