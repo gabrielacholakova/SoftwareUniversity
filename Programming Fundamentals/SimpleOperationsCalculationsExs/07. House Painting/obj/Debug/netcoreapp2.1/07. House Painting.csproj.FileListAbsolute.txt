@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\07. House Painting\bin\Debug\netcoreapp2.1\07. House Painting.deps.json
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\07. House Painting\bin\Debug\netcoreapp2.1\07. House Painting.runtimeconfig.json
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\07. House Painting\bin\Debug\netcoreapp2.1\07. House Painting.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\07. House Painting\bin\Debug\netcoreapp2.1\07. House Painting.dll
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\07. House Painting\bin\Debug\netcoreapp2.1\07. House Painting.pdb
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\07. House Painting\obj\Debug\netcoreapp2.1\07. House Painting.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\07. House Painting\obj\Debug\netcoreapp2.1\07. House Painting.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\07. House Painting\obj\Debug\netcoreapp2.1\07. House Painting.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\07. House Painting\obj\Debug\netcoreapp2.1\07. House Painting.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\07. House Painting\obj\Debug\netcoreapp2.1\07. House Painting.dll
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\07. House Painting\obj\Debug\netcoreapp2.1\07. House Painting.pdb

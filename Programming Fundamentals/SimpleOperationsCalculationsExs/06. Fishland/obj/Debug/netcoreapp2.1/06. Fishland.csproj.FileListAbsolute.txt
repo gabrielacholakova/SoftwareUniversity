@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\06. Fishland\bin\Debug\netcoreapp2.1\06. Fishland.deps.json
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\06. Fishland\bin\Debug\netcoreapp2.1\06. Fishland.runtimeconfig.json
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\06. Fishland\bin\Debug\netcoreapp2.1\06. Fishland.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\06. Fishland\bin\Debug\netcoreapp2.1\06. Fishland.dll
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\06. Fishland\bin\Debug\netcoreapp2.1\06. Fishland.pdb
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\06. Fishland\obj\Debug\netcoreapp2.1\06. Fishland.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\06. Fishland\obj\Debug\netcoreapp2.1\06. Fishland.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\06. Fishland\obj\Debug\netcoreapp2.1\06. Fishland.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\06. Fishland\obj\Debug\netcoreapp2.1\06. Fishland.dll
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\06. Fishland\obj\Debug\netcoreapp2.1\06. Fishland.pdb
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\06. Fishland\obj\Debug\netcoreapp2.1\06. Fishland.csprojAssemblyReference.cache

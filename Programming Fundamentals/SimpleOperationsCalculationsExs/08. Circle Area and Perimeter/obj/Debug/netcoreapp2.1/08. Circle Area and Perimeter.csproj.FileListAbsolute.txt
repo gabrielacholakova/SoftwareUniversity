@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp2.1\08. Circle Area and Perimeter.deps.json
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp2.1\08. Circle Area and Perimeter.runtimeconfig.json
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp2.1\08. Circle Area and Perimeter.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp2.1\08. Circle Area and Perimeter.dll
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp2.1\08. Circle Area and Perimeter.pdb
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp2.1\08. Circle Area and Perimeter.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp2.1\08. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp2.1\08. Circle Area and Perimeter.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp2.1\08. Circle Area and Perimeter.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp2.1\08. Circle Area and Perimeter.dll
+C:\Users\Gabby\source\repos\SimpleOperationsCalculations - More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp2.1\08. Circle Area and Perimeter.pdb
