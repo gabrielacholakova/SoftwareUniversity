@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp2.1\05. Account Balance.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp2.1\05. Account Balance.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp2.1\05. Account Balance.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp2.1\05. Account Balance.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\05. Account Balance\bin\Debug\netcoreapp2.1\05. Account Balance.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp2.1\05. Account Balance.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp2.1\05. Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp2.1\05. Account Balance.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp2.1\05. Account Balance.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp2.1\05. Account Balance.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\05. Account Balance\obj\Debug\netcoreapp2.1\05. Account Balance.pdb

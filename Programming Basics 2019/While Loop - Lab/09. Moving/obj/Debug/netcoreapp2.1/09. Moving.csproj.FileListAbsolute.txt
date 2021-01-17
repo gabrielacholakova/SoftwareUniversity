@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\09. Moving\bin\Debug\netcoreapp2.1\09. Moving.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\09. Moving\bin\Debug\netcoreapp2.1\09. Moving.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\09. Moving\bin\Debug\netcoreapp2.1\09. Moving.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\09. Moving\bin\Debug\netcoreapp2.1\09. Moving.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\09. Moving\bin\Debug\netcoreapp2.1\09. Moving.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\09. Moving\obj\Debug\netcoreapp2.1\09. Moving.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\09. Moving\obj\Debug\netcoreapp2.1\09. Moving.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\09. Moving\obj\Debug\netcoreapp2.1\09. Moving.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\09. Moving\obj\Debug\netcoreapp2.1\09. Moving.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\09. Moving\obj\Debug\netcoreapp2.1\09. Moving.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\09. Moving\obj\Debug\netcoreapp2.1\09. Moving.pdb

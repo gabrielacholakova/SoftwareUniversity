@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp2.1\06. Max Number.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp2.1\06. Max Number.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp2.1\06. Max Number.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp2.1\06. Max Number.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\06. Max Number\bin\Debug\netcoreapp2.1\06. Max Number.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp2.1\06. Max Number.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp2.1\06. Max Number.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp2.1\06. Max Number.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp2.1\06. Max Number.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp2.1\06. Max Number.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\06. Max Number\obj\Debug\netcoreapp2.1\06. Max Number.pdb

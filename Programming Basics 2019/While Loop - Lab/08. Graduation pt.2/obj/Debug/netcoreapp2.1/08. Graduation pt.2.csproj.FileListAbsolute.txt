@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\08. Graduation pt.2\bin\Debug\netcoreapp2.1\08. Graduation pt.2.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\08. Graduation pt.2\bin\Debug\netcoreapp2.1\08. Graduation pt.2.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\08. Graduation pt.2\bin\Debug\netcoreapp2.1\08. Graduation pt.2.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\08. Graduation pt.2\bin\Debug\netcoreapp2.1\08. Graduation pt.2.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\08. Graduation pt.2\bin\Debug\netcoreapp2.1\08. Graduation pt.2.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\08. Graduation pt.2\obj\Debug\netcoreapp2.1\08. Graduation pt.2.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\08. Graduation pt.2\obj\Debug\netcoreapp2.1\08. Graduation pt.2.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\08. Graduation pt.2\obj\Debug\netcoreapp2.1\08. Graduation pt.2.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\08. Graduation pt.2\obj\Debug\netcoreapp2.1\08. Graduation pt.2.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\08. Graduation pt.2\obj\Debug\netcoreapp2.1\08. Graduation pt.2.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Lab\08. Graduation pt.2\obj\Debug\netcoreapp2.1\08. Graduation pt.2.pdb
