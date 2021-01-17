@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yfrgwIix1UK0knRgjK19nkqd2vk7NtPU9/i8yPOsA9IDgeF9+Jq+LqY/fIHXqpJLPddYZLzqcrES1d6S9AaF3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabby\\source\\repos\\Gabby\\Gabby\\Programming Basics\\First Steps In Coding - Exercise\\07. Fruit Market\\07. Fruit Market.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\gabby\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

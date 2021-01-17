@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\05. Birthday party\bin\Debug\netcoreapp2.1\05. Birthday party.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\05. Birthday party\bin\Debug\netcoreapp2.1\05. Birthday party.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\05. Birthday party\bin\Debug\netcoreapp2.1\05. Birthday party.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\05. Birthday party\bin\Debug\netcoreapp2.1\05. Birthday party.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\05. Birthday party\bin\Debug\netcoreapp2.1\05. Birthday party.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\05. Birthday party\obj\Debug\netcoreapp2.1\05. Birthday party.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\05. Birthday party\obj\Debug\netcoreapp2.1\05. Birthday party.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\05. Birthday party\obj\Debug\netcoreapp2.1\05. Birthday party.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\05. Birthday party\obj\Debug\netcoreapp2.1\05. Birthday party.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\05. Birthday party\obj\Debug\netcoreapp2.1\05. Birthday party.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\05. Birthday party\obj\Debug\netcoreapp2.1\05. Birthday party.pdb

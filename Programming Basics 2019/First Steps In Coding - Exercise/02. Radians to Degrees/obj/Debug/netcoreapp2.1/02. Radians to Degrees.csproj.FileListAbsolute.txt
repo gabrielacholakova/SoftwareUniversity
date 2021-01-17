@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\netcoreapp2.1\02. Radians to Degrees.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\netcoreapp2.1\02. Radians to Degrees.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\netcoreapp2.1\02. Radians to Degrees.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\netcoreapp2.1\02. Radians to Degrees.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\02. Radians to Degrees\bin\Debug\netcoreapp2.1\02. Radians to Degrees.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp2.1\02. Radians to Degrees.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp2.1\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp2.1\02. Radians to Degrees.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp2.1\02. Radians to Degrees.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp2.1\02. Radians to Degrees.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\First Steps In Coding - Exercise\02. Radians to Degrees\obj\Debug\netcoreapp2.1\02. Radians to Degrees.pdb
