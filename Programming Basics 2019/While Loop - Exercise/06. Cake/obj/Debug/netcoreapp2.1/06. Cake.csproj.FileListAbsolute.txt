@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp2.1\06. Cake.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp2.1\06. Cake.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp2.1\06. Cake.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp2.1\06. Cake.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\06. Cake\bin\Debug\netcoreapp2.1\06. Cake.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp2.1\06. Cake.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp2.1\06. Cake.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp2.1\06. Cake.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp2.1\06. Cake.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp2.1\06. Cake.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\06. Cake\obj\Debug\netcoreapp2.1\06. Cake.pdb

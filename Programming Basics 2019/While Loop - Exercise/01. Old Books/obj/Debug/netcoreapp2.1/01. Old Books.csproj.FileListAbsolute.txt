@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\While Loop - Exercise\bin\Debug\netcoreapp2.1\01. Old Books.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\While Loop - Exercise\bin\Debug\netcoreapp2.1\01. Old Books.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\While Loop - Exercise\bin\Debug\netcoreapp2.1\01. Old Books.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\While Loop - Exercise\bin\Debug\netcoreapp2.1\01. Old Books.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\While Loop - Exercise\bin\Debug\netcoreapp2.1\01. Old Books.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\While Loop - Exercise\obj\Debug\netcoreapp2.1\01. Old Books.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\While Loop - Exercise\obj\Debug\netcoreapp2.1\01. Old Books.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\While Loop - Exercise\obj\Debug\netcoreapp2.1\01. Old Books.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\While Loop - Exercise\obj\Debug\netcoreapp2.1\01. Old Books.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\While Loop - Exercise\obj\Debug\netcoreapp2.1\01. Old Books.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\While Loop - Exercise\obj\Debug\netcoreapp2.1\01. Old Books.pdb

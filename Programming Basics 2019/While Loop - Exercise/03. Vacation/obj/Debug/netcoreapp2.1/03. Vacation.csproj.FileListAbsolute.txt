@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp2.1\03. Vacation.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp2.1\03. Vacation.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp2.1\03. Vacation.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp2.1\03. Vacation.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp2.1\03. Vacation.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp2.1\03. Vacation.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp2.1\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp2.1\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp2.1\03. Vacation.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp2.1\03. Vacation.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp2.1\03. Vacation.pdb
