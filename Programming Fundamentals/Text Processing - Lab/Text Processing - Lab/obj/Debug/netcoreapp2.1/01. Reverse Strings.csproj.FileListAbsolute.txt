@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Text Processing - Lab\Text Processing - Lab\bin\Debug\netcoreapp2.1\01. Reverse Strings.deps.json
+C:\Users\Gabby\source\repos\Text Processing - Lab\Text Processing - Lab\bin\Debug\netcoreapp2.1\01. Reverse Strings.runtimeconfig.json
+C:\Users\Gabby\source\repos\Text Processing - Lab\Text Processing - Lab\bin\Debug\netcoreapp2.1\01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Text Processing - Lab\Text Processing - Lab\bin\Debug\netcoreapp2.1\01. Reverse Strings.dll
+C:\Users\Gabby\source\repos\Text Processing - Lab\Text Processing - Lab\bin\Debug\netcoreapp2.1\01. Reverse Strings.pdb
+C:\Users\Gabby\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp2.1\01. Reverse Strings.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp2.1\01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp2.1\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp2.1\01. Reverse Strings.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp2.1\01. Reverse Strings.dll
+C:\Users\Gabby\source\repos\Text Processing - Lab\Text Processing - Lab\obj\Debug\netcoreapp2.1\01. Reverse Strings.pdb
