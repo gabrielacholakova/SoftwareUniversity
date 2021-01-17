@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\Programming Basics Online Exam\bin\Debug\netcoreapp2.1\01. Food Delivery.deps.json
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\Programming Basics Online Exam\bin\Debug\netcoreapp2.1\01. Food Delivery.runtimeconfig.json
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\Programming Basics Online Exam\bin\Debug\netcoreapp2.1\01. Food Delivery.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\Programming Basics Online Exam\bin\Debug\netcoreapp2.1\01. Food Delivery.dll
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\Programming Basics Online Exam\bin\Debug\netcoreapp2.1\01. Food Delivery.pdb
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\Programming Basics Online Exam\obj\Debug\netcoreapp2.1\01. Food Delivery.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\Programming Basics Online Exam\obj\Debug\netcoreapp2.1\01. Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\Programming Basics Online Exam\obj\Debug\netcoreapp2.1\01. Food Delivery.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\Programming Basics Online Exam\obj\Debug\netcoreapp2.1\01. Food Delivery.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\Programming Basics Online Exam\obj\Debug\netcoreapp2.1\01. Food Delivery.dll
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\Programming Basics Online Exam\obj\Debug\netcoreapp2.1\01. Food Delivery.pdb

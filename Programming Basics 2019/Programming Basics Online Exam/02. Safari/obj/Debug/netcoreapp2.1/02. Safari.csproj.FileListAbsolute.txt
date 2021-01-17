@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\02. Safari\bin\Debug\netcoreapp2.1\02. Safari.deps.json
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\02. Safari\bin\Debug\netcoreapp2.1\02. Safari.runtimeconfig.json
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\02. Safari\bin\Debug\netcoreapp2.1\02. Safari.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\02. Safari\bin\Debug\netcoreapp2.1\02. Safari.dll
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\02. Safari\bin\Debug\netcoreapp2.1\02. Safari.pdb
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\02. Safari\obj\Debug\netcoreapp2.1\02. Safari.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\02. Safari\obj\Debug\netcoreapp2.1\02. Safari.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\02. Safari\obj\Debug\netcoreapp2.1\02. Safari.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\02. Safari\obj\Debug\netcoreapp2.1\02. Safari.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\02. Safari\obj\Debug\netcoreapp2.1\02. Safari.dll
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\02. Safari\obj\Debug\netcoreapp2.1\02. Safari.pdb

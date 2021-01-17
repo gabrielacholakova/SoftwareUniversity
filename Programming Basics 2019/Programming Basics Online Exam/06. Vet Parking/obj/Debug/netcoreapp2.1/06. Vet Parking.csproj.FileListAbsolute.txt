@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\06. Vet Parking\bin\Debug\netcoreapp2.1\06. Vet Parking.deps.json
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\06. Vet Parking\bin\Debug\netcoreapp2.1\06. Vet Parking.runtimeconfig.json
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\06. Vet Parking\bin\Debug\netcoreapp2.1\06. Vet Parking.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\06. Vet Parking\bin\Debug\netcoreapp2.1\06. Vet Parking.dll
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\06. Vet Parking\bin\Debug\netcoreapp2.1\06. Vet Parking.pdb
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\06. Vet Parking\obj\Debug\netcoreapp2.1\06. Vet Parking.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\06. Vet Parking\obj\Debug\netcoreapp2.1\06. Vet Parking.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\06. Vet Parking\obj\Debug\netcoreapp2.1\06. Vet Parking.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\06. Vet Parking\obj\Debug\netcoreapp2.1\06. Vet Parking.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\06. Vet Parking\obj\Debug\netcoreapp2.1\06. Vet Parking.dll
+C:\Users\Gabby\source\repos\Programming Basics Online Exam\06. Vet Parking\obj\Debug\netcoreapp2.1\06. Vet Parking.pdb
