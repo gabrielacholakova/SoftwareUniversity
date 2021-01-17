@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp2.1\01. Cinema.deps.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp2.1\01. Cinema.runtimeconfig.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp2.1\01. Cinema.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp2.1\01. Cinema.dll
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\netcoreapp2.1\01. Cinema.pdb
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp2.1\01. Cinema.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp2.1\01. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp2.1\01. Cinema.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp2.1\01. Cinema.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp2.1\01. Cinema.dll
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\netcoreapp2.1\01. Cinema.pdb

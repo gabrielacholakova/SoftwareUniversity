@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp2.1\08. On Time for the Exam.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp2.1\08. On Time for the Exam.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp2.1\08. On Time for the Exam.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp2.1\08. On Time for the Exam.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\bin\Debug\netcoreapp2.1\08. On Time for the Exam.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp2.1\08. On Time for the Exam.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp2.1\08. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp2.1\08. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp2.1\08. On Time for the Exam.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp2.1\08. On Time for the Exam.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\08. On Time for the Exam\obj\Debug\netcoreapp2.1\08. On Time for the Exam.pdb

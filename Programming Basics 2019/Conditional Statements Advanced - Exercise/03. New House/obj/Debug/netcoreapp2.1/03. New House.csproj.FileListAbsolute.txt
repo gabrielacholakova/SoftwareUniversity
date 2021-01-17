@@ -1,0 +1,22 @@
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp2.1\03. New House.deps.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp2.1\03. New House.runtimeconfig.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp2.1\03. New House.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp2.1\03. New House.dll
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp2.1\03. New House.pdb
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.dll
+C:\Users\Gabby\source\repos\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp2.1\03. New House.deps.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp2.1\03. New House.runtimeconfig.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp2.1\03. New House.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp2.1\03. New House.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\netcoreapp2.1\03. New House.pdb
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.dll
+C:\Users\Gabby\Desktop\Gabby\Programming Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\netcoreapp2.1\03. New House.pdb
