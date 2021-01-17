@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\07. Alcohol Market\bin\Debug\netcoreapp2.1\07. Alcohol Market.deps.json
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\07. Alcohol Market\bin\Debug\netcoreapp2.1\07. Alcohol Market.runtimeconfig.json
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\07. Alcohol Market\bin\Debug\netcoreapp2.1\07. Alcohol Market.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\07. Alcohol Market\bin\Debug\netcoreapp2.1\07. Alcohol Market.dll
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\07. Alcohol Market\bin\Debug\netcoreapp2.1\07. Alcohol Market.pdb
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\07. Alcohol Market\obj\Debug\netcoreapp2.1\07. Alcohol Market.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\07. Alcohol Market\obj\Debug\netcoreapp2.1\07. Alcohol Market.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\07. Alcohol Market\obj\Debug\netcoreapp2.1\07. Alcohol Market.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\07. Alcohol Market\obj\Debug\netcoreapp2.1\07. Alcohol Market.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\07. Alcohol Market\obj\Debug\netcoreapp2.1\07. Alcohol Market.dll
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\07. Alcohol Market\obj\Debug\netcoreapp2.1\07. Alcohol Market.pdb

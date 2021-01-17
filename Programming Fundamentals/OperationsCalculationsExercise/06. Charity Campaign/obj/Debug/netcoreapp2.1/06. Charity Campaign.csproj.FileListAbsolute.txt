@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\06. Charity Campaign\bin\Debug\netcoreapp2.1\06. Charity Campaign.deps.json
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\06. Charity Campaign\bin\Debug\netcoreapp2.1\06. Charity Campaign.runtimeconfig.json
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\06. Charity Campaign\bin\Debug\netcoreapp2.1\06. Charity Campaign.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\06. Charity Campaign\bin\Debug\netcoreapp2.1\06. Charity Campaign.dll
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\06. Charity Campaign\bin\Debug\netcoreapp2.1\06. Charity Campaign.pdb
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\06. Charity Campaign\obj\Debug\netcoreapp2.1\06. Charity Campaign.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\06. Charity Campaign\obj\Debug\netcoreapp2.1\06. Charity Campaign.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\06. Charity Campaign\obj\Debug\netcoreapp2.1\06. Charity Campaign.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\06. Charity Campaign\obj\Debug\netcoreapp2.1\06. Charity Campaign.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\06. Charity Campaign\obj\Debug\netcoreapp2.1\06. Charity Campaign.dll
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\06. Charity Campaign\obj\Debug\netcoreapp2.1\06. Charity Campaign.pdb

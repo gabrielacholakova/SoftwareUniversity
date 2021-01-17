@@ -1,0 +1,11 @@
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp2.1\04. Tailoring Workshop.deps.json
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp2.1\04. Tailoring Workshop.runtimeconfig.json
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp2.1\04. Tailoring Workshop.runtimeconfig.dev.json
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp2.1\04. Tailoring Workshop.dll
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\04. Tailoring Workshop\bin\Debug\netcoreapp2.1\04. Tailoring Workshop.pdb
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp2.1\04. Tailoring Workshop.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp2.1\04. Tailoring Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp2.1\04. Tailoring Workshop.AssemblyInfoInputs.cache
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp2.1\04. Tailoring Workshop.AssemblyInfo.cs
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp2.1\04. Tailoring Workshop.dll
+C:\Users\Gabby\source\repos\Simple Operations and Calculations - Exercise\04. Tailoring Workshop\obj\Debug\netcoreapp2.1\04. Tailoring Workshop.pdb
