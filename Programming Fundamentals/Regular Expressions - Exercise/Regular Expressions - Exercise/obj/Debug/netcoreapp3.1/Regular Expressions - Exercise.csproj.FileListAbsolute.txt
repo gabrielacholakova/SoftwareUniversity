@@ -1,0 +1,13 @@
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\bin\Debug\netcoreapp3.1\Regular Expressions - Exercise.exe
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\bin\Debug\netcoreapp3.1\Regular Expressions - Exercise.deps.json
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\bin\Debug\netcoreapp3.1\Regular Expressions - Exercise.runtimeconfig.json
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\bin\Debug\netcoreapp3.1\Regular Expressions - Exercise.runtimeconfig.dev.json
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\bin\Debug\netcoreapp3.1\Regular Expressions - Exercise.dll
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\bin\Debug\netcoreapp3.1\Regular Expressions - Exercise.pdb
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\obj\Debug\netcoreapp3.1\Regular Expressions - Exercise.csprojAssemblyReference.cache
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\obj\Debug\netcoreapp3.1\Regular Expressions - Exercise.AssemblyInfoInputs.cache
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\obj\Debug\netcoreapp3.1\Regular Expressions - Exercise.AssemblyInfo.cs
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\obj\Debug\netcoreapp3.1\Regular Expressions - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\obj\Debug\netcoreapp3.1\Regular Expressions - Exercise.dll
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\obj\Debug\netcoreapp3.1\Regular Expressions - Exercise.pdb
+C:\Users\gabby\source\repos\Regular Expressions - Exercise\Regular Expressions - Exercise\obj\Debug\netcoreapp3.1\Regular Expressions - Exercise.genruntimeconfig.cache
