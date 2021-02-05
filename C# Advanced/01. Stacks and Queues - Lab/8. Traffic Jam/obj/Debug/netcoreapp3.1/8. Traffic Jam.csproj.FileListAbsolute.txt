@@ -1,0 +1,13 @@
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.exe
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.deps.json
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.json
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.dev.json
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.dll
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.csprojAssemblyReference.cache
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfo.cs
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.dll
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\1. Reverse Strings.exe
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\1. Reverse Strings.deps.json
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.json
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.dev.json
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\1. Reverse Strings.dll
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\1. Reverse Strings.pdb
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\1. Reverse Strings.csprojAssemblyReference.cache
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfo.cs
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\1. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\1. Reverse Strings.dll
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\1. Reverse Strings.pdb
+C:\Users\gabby\source\repos\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\1. Reverse Strings.genruntimeconfig.cache
