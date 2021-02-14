@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabby\\source\\repos\\Stacks and Queues - Exercise\\06. Songs Queue\\06. Songs Queue.csproj": {}
+    "C:\\Users\\gabby\\source\\repos\\Stacks and Queues - Exercise\\06. Songs Queue2\\06. Songs Queue2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabby\\source\\repos\\Stacks and Queues - Exercise\\06. Songs Queue\\06. Songs Queue.csproj": {
+    "C:\\Users\\gabby\\source\\repos\\Stacks and Queues - Exercise\\06. Songs Queue2\\06. Songs Queue2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabby\\source\\repos\\Stacks and Queues - Exercise\\06. Songs Queue\\06. Songs Queue.csproj",
-        "projectName": "06. Songs Queue",
-        "projectPath": "C:\\Users\\gabby\\source\\repos\\Stacks and Queues - Exercise\\06. Songs Queue\\06. Songs Queue.csproj",
+        "projectUniqueName": "C:\\Users\\gabby\\source\\repos\\Stacks and Queues - Exercise\\06. Songs Queue2\\06. Songs Queue2.csproj",
+        "projectName": "06. Songs Queue2",
+        "projectPath": "C:\\Users\\gabby\\source\\repos\\Stacks and Queues - Exercise\\06. Songs Queue2\\06. Songs Queue2.csproj",
         "packagesPath": "C:\\Users\\gabby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabby\\source\\repos\\Stacks and Queues - Exercise\\06. Songs Queue\\obj\\",
+        "outputPath": "C:\\Users\\gabby\\source\\repos\\Stacks and Queues - Exercise\\06. Songs Queue2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabby\\AppData\\Roaming\\NuGet\\NuGet.Config",
